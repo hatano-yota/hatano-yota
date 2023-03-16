@@ -1,4 +1,4 @@
-<p align="center"><img width="60%" alt="Hello, I'm Hatano" src="./assets/readme-header.jpg" /></p>
+<p align="center"><img width="55%" alt="Hello, I'm Hatano" src="./assets/readme-header.png" /></p>
 
 ### I'm a FrontEnd developer 👋
 
